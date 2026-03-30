@@ -90,6 +90,7 @@ AI systems should not be experimental — they should be engineered.
 - 📧 Email: paultive.mrk@gmail.com
 - 🌐 Portfolio: https://github.com/enthutv
 - 💼 LinkedIn: www.linkedin.com/in/paul-raymond-tive-664bb8383
+-    Website: https://www.paulraymondtive.com/
 
 ---
 
