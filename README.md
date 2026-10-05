@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Raymond Tive
+# Hi, I'm Paul Raymond Tive
 
 ## AI Systems Architect | AI Platform Engineer | LLM Infrastructure Builder
 
@@ -15,7 +15,7 @@ My focus is building scalable AI platforms that bridge traditional backend archi
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - 🔹 Multi-Agent AI Orchestration Systems
 - 🔹 Retrieval-Augmented Generation (RAG) Infrastructure
@@ -26,7 +26,7 @@ My focus is building scalable AI platforms that bridge traditional backend archi
 
 ---
 
-## 🧠 Core Technical Stack
+## Core Technical Stack
 
 **Backend & Infrastructure**
 - Node.js
@@ -51,7 +51,7 @@ My focus is building scalable AI platforms that bridge traditional backend archi
 
 ---
 
-## 🏗 Featured AI Infrastructure Repositories
+## Featured AI Infrastructure Repositories
 
 ### 🔹 node-rag-assistant
 Production-ready RAG backend infrastructure integrating semantic retrieval, vector search, and governed LLM response generation.
@@ -61,7 +61,7 @@ AI infrastructure control panel built with Next.js, designed for secure AI inter
 
 ---
 
-## 🎯 Architecture Philosophy
+## Architecture Philosophy
 
 I approach AI development from a systems perspective:
 
@@ -76,7 +76,7 @@ AI systems should not be experimental — they should be engineered.
 
 ---
 
-## 🌍 Open To
+## Open To
 
 - Remote AI Engineer Roles
 - AI Platform Engineer Positions
@@ -85,11 +85,11 @@ AI systems should not be experimental — they should be engineered.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: paultive.mrk@gmail.com
-- 🌐 Portfolio: https://github.com/enthutv
-- 💼 LinkedIn: www.linkedin.com/in/paul-raymond-tive-664bb8383
+- Email: paultive.mrk@gmail.com
+- Portfolio: https://github.com/enthutv
+- LinkedIn: www.linkedin.com/in/paul-raymond-tive-664bb8383
 -    Website: https://www.paulraymondtive.com/
 
 ---
